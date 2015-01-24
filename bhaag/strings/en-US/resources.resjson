@@ -8,7 +8,7 @@
 
     "Section2": "run",
 	"startRun": "Start Running",
-    "Section2Description": "Make sure you have Geolocation enabled on your device to get accurate statistics for the run.",
+    "Section2Description": "Make sure you have Geolocation enabled on your device before you start.",
     
     "Section3": "Section 3",
 	"Section3ItemTitle": "Item Title",

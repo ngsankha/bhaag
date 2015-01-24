@@ -24,13 +24,17 @@
   <Applications>
     <Application Id="App" StartPage="default.html">
       <m3:VisualElements DisplayName="bhaag" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png" Description="bhaag" ForegroundText="light" BackgroundColor="transparent">
-        <m3:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png" Square71x71Logo="images\Square71x71Logo.png" />
+        <m3:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png" Square71x71Logo="images\Square71x71Logo.png"></m3:DefaultTile>
         <m3:SplashScreen Image="images\SplashScreen.png" />
+        <m3:InitialRotationPreference>
+          <m3:Rotation Preference="portrait" />
+        </m3:InitialRotationPreference>
       </m3:VisualElements>
     </Application>
   </Applications>
   <Capabilities>
     <Capability Name="internetClientServer" />
+    <DeviceCapability Name="location" />
   </Capabilities>
   <Dependencies>
     <PackageDependency Name="Microsoft.Phone.WinJS.2.1" MinVersion="1.0.9651.0" />

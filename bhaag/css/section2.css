@@ -1,10 +1,31 @@
 ﻿#startRun {
     font-size: 30px;
+}
+
+.bottom {
     position: absolute;
-    bottom: 10px;
+    bottom: 2px;
+}
+
+.warning {
+    width: 80%;
 }
 
 #timer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 70px;
+}
+
+.tile {
+    display: inline-block;
+    float: left;
+    width: 150px;
+    height: 120px;
+    background-color: #0094ff;
+    margin: 3px;
+    font-size: 25px;
+}
+
+.tile-text {
+    padding: 5px 5px 5px 5px;
 }

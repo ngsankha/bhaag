@@ -9,12 +9,20 @@
     <div class="fragment section2page">
         <section aria-label="Main content" role="main">
             <div id="timer">00:00:00</div>
-            <div class="label-mediummid">
-                <span data-win-res="{ textContent: 'Section2Description' }"></span>
+            <div class="tile">
+            <span class="tile-text">Speed</span>
             </div>
-            <p>
-                <button id="startRun" onclick="startRunTimer()"><span id="runBtn" data-win-res="{ textContent: 'startRun' }"></span></button>
-            </p>
+            <div class="tile">
+                <span id ="distCounter" class="tile-text">Distance</span>
+            </div>
+            <div class="bottom">
+                <div class="warning label-mediummid">
+                    <span data-win-res="{ textContent: 'Section2Description' }"></span>
+                </div>
+                <p>
+                    <button id="startRun" onclick="startRunTimer()"><span id="runBtn" data-win-res="{ textContent: 'startRun' }"></span></button>
+                </p>
+            </div>
         </section>
     </div>
 </body>
