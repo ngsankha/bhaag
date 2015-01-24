@@ -1,0 +1,15 @@
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bin\Debug\ReverseMap\resources.pri
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bin\Debug\AppxManifest.xml
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bin\Debug\bhaag.build.appxrecipe
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\priconfig.xml
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\priconfig.xml.intermediate
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\layout.resfiles
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\layout.resfiles.intermediate
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\resources.resfiles
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\resources.resfiles.intermediate
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\pri.resfiles
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\pri.resfiles.intermediate
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\qualifiers.txt
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\qualifiers.txt.intermediate
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\ProjectArchitectures.txt
