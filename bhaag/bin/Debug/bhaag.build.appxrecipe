@@ -7,109 +7,112 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>28f0d416-35aa-47de-8bc9-3d4b487afde2</PackageIdentityName>
-    <IntermediateOutputPath>c:\users\srikar\desktop\hackathon\bhaag\bhaag\bld\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\css\phone.css">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\css\phone.css">
       <PackagePath>css\phone.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\hub\hubPhone.css">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\css\section2.css">
+      <PackagePath>css\section2.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\hubPhone.css">
       <PackagePath>pages\hub\hubPhone.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\item\item.css">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\item\item.css">
       <PackagePath>pages\item\item.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\css\ui-themed.css">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\css\ui-themed.css">
       <PackagePath>css\ui-themed.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\css\ui-themed.theme-dark.css">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\css\ui-themed.theme-dark.css">
       <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\css\ui-themed.theme-light.css">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\css\ui-themed.theme-light.css">
       <PackagePath>css\ui-themed.theme-light.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\images\Square150x150Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\images\Square150x150Logo.scale-240.png">
       <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\images\Square44x44Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\images\Square44x44Logo.scale-240.png">
       <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\images\Wide310x150Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\images\Wide310x150Logo.scale-240.png">
       <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\images\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\images\Square71x71Logo.scale-240.png">
       <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\images\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\images\SplashScreen.scale-240.png">
       <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\images\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\images\StoreLogo.scale-240.png">
       <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\images\gray.png">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\images\gray.png">
       <PackagePath>images\gray.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\js\data.js">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\js\data.js">
       <PackagePath>js\data.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\js\default.js">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\js\default.js">
       <PackagePath>js\default.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\js\navigator.js">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\hub\hub.js">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\hub.js">
       <PackagePath>pages\hub\hub.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\hub\section1Page.js">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\section1Page.js">
       <PackagePath>pages\hub\section1Page.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\hub\section2Page.js">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\section2Page.js">
       <PackagePath>pages\hub\section2Page.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\hub\section3Page.js">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\section3Page.js">
       <PackagePath>pages\hub\section3Page.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\hub\section4Page.js">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\section4Page.js">
       <PackagePath>pages\hub\section4Page.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\item\item.js">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\item\item.js">
       <PackagePath>pages\item\item.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\hub\hub.html">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\hub.html">
       <PackagePath>pages\hub\hub.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\hub\section1Page.html">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\section1Page.html">
       <PackagePath>pages\hub\section1Page.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\hub\section2Page.html">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\section2Page.html">
       <PackagePath>pages\hub\section2Page.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\hub\section3Page.html">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\section3Page.html">
       <PackagePath>pages\hub\section3Page.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\hub\section4Page.html">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\section4Page.html">
       <PackagePath>pages\hub\section4Page.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\pages\item\item.html">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\item\item.html">
       <PackagePath>pages\item\item.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\default.html">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\default.html">
       <PackagePath>default.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\srikar\desktop\hackathon\bhaag\bhaag\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

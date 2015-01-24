@@ -1,16 +1,14 @@
 ﻿// For details on localizing a Windows app, see: http://go.microsoft.com/fwlink/?LinkId=212836
 
 {
-    "Section1": "Section 1",
+    "Section1": "overview",
 	"Section1Title": "Section 1 Title",
     "Section1Subtext": "Lorem ipsum dolor sit amet",
-    "Section1Description": "Lorem ipsum dolor sit amet, consectetur ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis nisl ut wisi quipexerci quis consequat minim veniam, quis nostrud. exerci tation ullam corper.",
+    "Section1Description": "Swipe right to start running.",
 
-    "Section2": "Section 2",
-    "Section2ItemTitle": "Item Title",
-    "Section2ItemSubtitle": "Item Sub Title",
-    "Section2Subtext": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
-    "Section2Description": "Lorem ipsum dolor sit amet, consectetur ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis nisl ut wisi quipexerci quis consequat minim veniam, quis nostrud. exerci tation ullam corper.",
+    "Section2": "run",
+	"startRun": "Start Running",
+    "Section2Description": "Make sure you have Geolocation enabled on your device to get accurate statistics for the run.",
     
     "Section3": "Section 3",
 	"Section3ItemTitle": "Item Title",
