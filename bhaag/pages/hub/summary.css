@@ -1,0 +1,23 @@
+﻿.tile {
+    display: inline-block;
+    float: left;
+    width: 170px;
+    height: 120px;
+    background-color: #0094ff;
+    margin: 5px;
+    font-size: 25px;
+}
+
+.pagetitle {
+    font-size: 30px;
+}
+
+.content {
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+.tile-text {
+    padding: 5px 5px 5px 5px;
+    display: block;
+}

@@ -63,6 +63,7 @@
     <Content Include="pages\hub\hubPhone.css" />
     <Content Include="pages\hub\hub.html" />
     <Content Include="pages\hub\hub.js" />
+    <Content Include="pages\hub\summary.html" />
     <Content Include="pages\hub\section1Page.html" />
     <Content Include="pages\hub\section1Page.js" />
     <Content Include="pages\hub\section2Page.html" />
@@ -71,7 +72,8 @@
     <Content Include="pages\hub\section3Page.js" />
     <Content Include="pages\hub\section4Page.html" />
     <Content Include="pages\hub\section4Page.js" />
-    <Content Include="pages\item\item.css" />
+    <Content Include="pages\hub\summary.js" />
+    <Content Include="pages\hub\summary.css" />
     <Content Include="pages\item\item.html" />
     <Content Include="pages\item\item.js" />
     <Content Include="default.html" />

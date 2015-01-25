@@ -25,8 +25,8 @@
     <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\hubPhone.css">
       <PackagePath>pages\hub\hubPhone.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\item\item.css">
-      <PackagePath>pages\item\item.css</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\summary.css">
+      <PackagePath>pages\hub\summary.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\css\ui-themed.css">
       <PackagePath>css\ui-themed.css</PackagePath>
@@ -88,11 +88,17 @@
     <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\section4Page.js">
       <PackagePath>pages\hub\section4Page.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\summary.js">
+      <PackagePath>pages\hub\summary.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\item\item.js">
       <PackagePath>pages\item\item.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\hub.html">
       <PackagePath>pages\hub\hub.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\summary.html">
+      <PackagePath>pages\hub\summary.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\pages\hub\section1Page.html">
       <PackagePath>pages\hub\section1Page.html</PackagePath>
