@@ -1,0 +1,15 @@
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bin\Debug\ReverseMap\resources.pri
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bin\Debug\AppxManifest.xml
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bin\Debug\TrainMe.build.appxrecipe
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\priconfig.xml
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\priconfig.xml.intermediate
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\layout.resfiles
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\layout.resfiles.intermediate
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\resources.resfiles
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\resources.resfiles.intermediate
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\pri.resfiles
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\pri.resfiles.intermediate
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\qualifiers.txt
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\bld\Debug\ProjectArchitectures.txt

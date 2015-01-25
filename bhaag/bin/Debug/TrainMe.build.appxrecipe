@@ -37,6 +37,10 @@
     <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\css\ui-themed.theme-light.css">
       <PackagePath>css\ui-themed.theme-light.css</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\images\1152x1920.scale-240.png">
+      <PackagePath>images\1152x1920.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Srikar\Desktop\hackathon\bhaag\bhaag\images\1152x1920chotabolt.png">
       <PackagePath>images\1152x1920chotabolt.png</PackagePath>
     </AppxPackagedFile>

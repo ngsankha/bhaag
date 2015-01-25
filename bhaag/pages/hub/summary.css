@@ -1,4 +1,4 @@
-﻿.tile {
+﻿.tile-summary {
     display: inline-block;
     float: left;
     width: 170px;
@@ -17,7 +17,7 @@
     padding-left: 20px;
 }
 
-.tile-text {
+.tile-summary-text {
     padding: 5px 5px 5px 5px;
     display: block;
 }

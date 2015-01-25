@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-  <Identity Name="28f0d416-35aa-47de-8bc9-3d4b487afde2" Version="1.0.0.0" Publisher="CN=Srikar" />
-  <mp:PhoneIdentity PhoneProductId="28f0d416-35aa-47de-8bc9-3d4b487afde2" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="28f0d416-35aa-47de-8bc9-3d4b487afde5" Version="1.0.0.0" Publisher="CN=Srikar" />
+  <mp:PhoneIdentity PhoneProductId="ee3da0ef-c8de-41cd-90fd-5ed890499bc3" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>bhaag</DisplayName>
-    <PublisherDisplayName>Srikar</PublisherDisplayName>
-    <Logo>images\StoreLogo.png</Logo>
+    <DisplayName>TrainMe</DisplayName>
+    <PublisherDisplayName>#105</PublisherDisplayName>
+    <Logo>images\120x120chotabolt.png</Logo>
   </Properties>
   <Prerequisites>
     <OSMinVersion>6.3.1</OSMinVersion>
@@ -16,10 +16,10 @@
   </Resources>
   <Applications>
     <Application Id="App" StartPage="default.html">
-      <m3:VisualElements DisplayName="bhaag" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png" Description="bhaag" ForegroundText="light" BackgroundColor="transparent">
-        <m3:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png" Square71x71Logo="images\Square71x71Logo.png">
+      <m3:VisualElements DisplayName="TrainMe" Square150x150Logo="images\150x150chotabolt.png" Square44x44Logo="images\44x44chotabolt.png" Description="Your running companion" ForegroundText="light" BackgroundColor="white">
+        <m3:DefaultTile Wide310x150Logo="images\310x150chotabolt.png" Square71x71Logo="images\71x71chotabolt.png">
         </m3:DefaultTile>
-        <m3:SplashScreen Image="images\SplashScreen.png" />
+        <m3:SplashScreen Image="images\1152x1920.png" BackgroundColor="white" />
         <m3:InitialRotationPreference>
           <m3:Rotation Preference="portrait" />
         </m3:InitialRotationPreference>

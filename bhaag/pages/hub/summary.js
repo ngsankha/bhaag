@@ -78,15 +78,24 @@
         document.getElementById("strides").innerHTML += "<br/>" + strides;
     }
 
+    function showPace() {
+        var pace = Math.round(((obj.time / 60) / obj.distance) * 100) / 100;
+        document.getElementById("avgPace").innerHTML += "<br/>" + pace + " min/km";
+    }
+
     WinJS.UI.Pages.define("/pages/hub/summary.html", {
         ready: function (element, options) {
             var idx = options.item;
             element.querySelector(".titlearea .pagetitle").textContent = "Summary";
+            setTimeout(function () {
+                document.getElementById("progressMeter").hidden = true;
+            }, 1000);
             obj = JSON.parse(window.localStorage.getItem("run" + idx));
             showTime();
             showDistance();
             showSpeeds();
             showStrides();
+            showPace();
         }
     });
 })();

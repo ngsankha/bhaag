@@ -179,6 +179,7 @@ function writeData() {
         acY: acY,
         acZ: acZ,
         distance: runDist,
+        endTime: Date.now(),
         time: 3600 * h + 60 * m + s
     };
     storage.setItem("run" + idx, JSON.stringify(obj));
@@ -208,4 +209,4 @@ function startRunTimer(e) {
 }
 
 // DO NOT ENABLE THIS
-window.localStorage.clear();
+// window.localStorage.clear();

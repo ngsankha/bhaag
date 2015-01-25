@@ -2,15 +2,17 @@
 <html>
 <head>
     <title></title>
+    <link href="/css/section2.css" rel="stylesheet" />
+    <script src="/js/chart.min.js"></script>
     <script src="/pages/hub/section1Page.js"></script>
 </head>
 <body>
     <div class="fragment section1page">
         <section aria-label="Main content" role="main">
-            <img src="/images/gray.png" />
+            <canvas id="runChart" width="300" height="200"></canvas>
             <div class="title label-extralarge" data-win-res="{ textContent: 'Section1Title' }"></div>
-            <div class="subtext label-medium" data-win-res="{ textContent: 'Section1Subtext' }"></div>
-            <div class="label-mediummid">
+            <div class="subtext label-medium" id="runOverview"></div>
+            <div class="label-mediummid bottom">
                 <span data-win-res="{ textContent: 'Section1Description' }"></span>
             </div>
         </section>

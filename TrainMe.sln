@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "bhaag", "bhaag\bhaag.jsproj", "{1FE81A57-B83E-4115-87CA-F4CEB91A8F25}"
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "TrainMe", "bhaag\TrainMe.jsproj", "{1FE81A57-B83E-4115-87CA-F4CEB91A8F25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

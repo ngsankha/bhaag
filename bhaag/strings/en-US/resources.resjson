@@ -2,7 +2,7 @@
 
 {
     "Section1": "overview",
-	"Section1Title": "Section 1 Title",
+	"Section1Title": "Activity Meter",
     "Section1Subtext": "Lorem ipsum dolor sit amet",
     "Section1Description": "Swipe right to start running.",
 
@@ -10,13 +10,13 @@
 	"startRun": "Start Running",
     "Section2Description": "Make sure you have Geolocation enabled on your device before you start.",
     
-    "Section3": "Section 3",
+    "Section3": "history",
 	"Section3ItemTitle": "Item Title",
 	"Section3Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
     
-    "Section4": "Section 4",
-    "Section4Description": "Lorem ipsum dolor sit amet, consectetur ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis nisl ut wisi quipexerci quis consequat minim veniam, quis nostrud.",
+    "Section4": "about",
+    "Section4Description": "",
 
-    "DescriptionText": "Lorem ipsum dolor sit amet:",
+    "DescriptionText": "Copyright 2015, Team #105. All rights reserved.",
     "SectionSubtitle": "Section subtitle"
 }
